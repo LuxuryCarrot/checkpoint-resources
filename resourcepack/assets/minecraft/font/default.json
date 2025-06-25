@@ -1,0 +1,86 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt1.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘔"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt2.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘕"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt3.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt4.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt5.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt6.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/defalt7.png",
+            "ascent": 31,
+            "height": 242,
+            "chars" : [
+                "㘚"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file" : "minecraft:font/banana2.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars" : [
+                "鐁"
+            ]
+        }
+    ]
+}

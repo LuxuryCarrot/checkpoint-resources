@@ -1,0 +1,181 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/herring"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/daegu"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/seabream"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/mackerel"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/mullet"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/yeonsoolim"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/tuna"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "item/blackseabream"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "item/rockfish"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "item/bass"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "item/eel"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "item/cruciancarp"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "item/abalone"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "item/catfish"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "item/croaker"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "item/carp"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "item/salmon"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "item/calamari"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "item/flatfish"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "item/shad"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "item/redseabream"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "item/saury"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "item/amberjack"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "item/skates"
+        }
+      }
+      
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/cod"
+    }
+  }
+}
