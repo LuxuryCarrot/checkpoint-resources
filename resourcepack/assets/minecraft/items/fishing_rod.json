@@ -21,21 +21,21 @@
           "threshold": 3,
           "model": {
             "type": "model",
-            "model": "item/fishing_rod_2"
+            "model": "item/fishing_rod_3"
           }
         },
         {
           "threshold": 4,
           "model": {
             "type": "model",
-            "model": "item/fishing_rod_2"
+            "model": "item/fishing_rod_4"
           }
         },
         {
           "threshold": 5,
           "model": {
             "type": "model",
-            "model": "item/fishing_rod_2"
+            "model": "item/fishing_rod_5"
           }
         }
     ],
