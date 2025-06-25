@@ -1,47 +1,13 @@
 {
-    "model": {
-      "type": "range_dispatch",
-      "property": "custom_model_data",
-      "entries": [
-        {
-          "threshold": 1,
-          "model": {
-            "type": "model",
-            "model": "item/fishing_rod_1"
-          }
-        },
-        {
-          "threshold": 2,
-          "model": {
-            "type": "model",
-            "model": "item/fishing_rod_2"
-          }
-        },
-        {
-          "threshold": 3,
-          "model": {
-            "type": "model",
-            "model": "item/fishing_rod_3"
-          }
-        },
-        {
-          "threshold": 4,
-          "model": {
-            "type": "model",
-            "model": "item/fishing_rod_4"
-          }
-        },
-        {
-          "threshold": 5,
-          "model": {
-            "type": "model",
-            "model": "item/fishing_rod_5"
-          }
-        }
-    ],
-    "fallback": {
-      "type": "model",
-      "model": "item/fishing_rod"
-    }
-  }
+  "parent": "item/handheld_rod",
+  "textures": { 
+    "layer0": "item/fishing_rod"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/fishing_rod_1" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/fishing_rod_2" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/fishing_rod_3" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/fishing_rod_4" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/fishing_rod_5" }
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/cod" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 },  "model": "item/herring" },
+    { "predicate": { "custom_model_data": 2 },  "model": "item/daegu" },
+    { "predicate": { "custom_model_data": 3 },  "model": "item/seabream" },
+    { "predicate": { "custom_model_data": 4 },  "model": "item/mackerel" },
+    { "predicate": { "custom_model_data": 5 },  "model": "item/mullet" },
+    { "predicate": { "custom_model_data": 6 },  "model": "item/yeonsoolim" },
+    { "predicate": { "custom_model_data": 7 },  "model": "item/tuna" },
+    { "predicate": { "custom_model_data": 8 },  "model": "item/blackseabream" },
+    { "predicate": { "custom_model_data": 9 },  "model": "item/rockfish" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/bass" },
+    { "predicate": { "custom_model_data": 11 }, "model": "item/eel" },
+    { "predicate": { "custom_model_data": 12 }, "model": "item/cruciancarp" },
+    { "predicate": { "custom_model_data": 13 }, "model": "item/abalone" },
+    { "predicate": { "custom_model_data": 14 }, "model": "item/catfish" },
+    { "predicate": { "custom_model_data": 15 }, "model": "item/croaker" },
+    { "predicate": { "custom_model_data": 16 }, "model": "item/carp" },
+    { "predicate": { "custom_model_data": 17 }, "model": "item/salmon" },
+    { "predicate": { "custom_model_data": 18 }, "model": "item/calamari" },
+    { "predicate": { "custom_model_data": 19 }, "model": "item/flatfish" },
+    { "predicate": { "custom_model_data": 20 }, "model": "item/shad" },
+    { "predicate": { "custom_model_data": 21 }, "model": "item/redseabream" },
+    { "predicate": { "custom_model_data": 22 }, "model": "item/saury" },
+    { "predicate": { "custom_model_data": 23 }, "model": "item/amberjack" },
+    { "predicate": { "custom_model_data": 24 }, "model": "item/skates" }
+  ]
+}
