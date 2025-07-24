@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+      {
+        "predicate": { "custom_model_data": 2 },
+        "model": "item/chung_4_white"
+      },
+      {
+        "predicate": { "custom_model_data": 3 },
+        "model": "item/chung_4"
+      }
+    ]
+  }
+  
